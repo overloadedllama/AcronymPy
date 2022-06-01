@@ -1,0 +1,11 @@
+#!/usr/bin/env python3
+
+from acronympy import runapp
+
+
+def main():
+    runapp()
+
+
+if __name__ == '__main__':
+    main()
